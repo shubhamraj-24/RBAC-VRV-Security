@@ -1,4 +1,4 @@
-## Installation
+## Set Up Instructions
 
 ### Clone the repository
 1. Fork this repository.
@@ -7,12 +7,12 @@
 ### Configure the client
 
 1. Navigate to client folder: `cd client`
-2. Install required packages: `npm i`
+2. Install required packages: `npm install`
 
 ### Configure the server
 
 1. Navigate to server folder: `cd server`
-2. Install required packages: `npm i`
+2. Install required packages: `npm install`
 3. Set up the database and configure the environment variables by following the instructions in the next steps.
 
 ### Set up the database

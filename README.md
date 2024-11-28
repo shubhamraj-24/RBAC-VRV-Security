@@ -23,7 +23,8 @@
 ```
 PORT= <port_to_run_node_server>
 MONGODB_URL= <mongodb_connection_string>
-JWT= <JWT_secret>
+MONGO_DB_URL_MANAGEMENT= <mongodb_connection_string>
+TOKEN_SECRET= <JWT_secret_key>
 
 ```
 

@@ -5,16 +5,12 @@ This project implements an Authentication and Authorization system using Role-Ba
 
 ## Features
 
-
+### Frontend :-
 - **User Management**: View, add, edit, delete, and manage user roles and statuses.
 - **Role Management**: Create and modify roles, and assign permissions to them.
 - **Dynamic Permissions**: Assign or remove specific permissions (Read, Write, Delete etc.) to roles, enabling role-based actions for users.
 
-
----
-
-
-
+### Backend :-
 - **User Registration**: Users can create accounts securely.
 - **User Login/Logout**: Secure authentication with session management.
 - **Role Management**: Different roles with specific permissions.

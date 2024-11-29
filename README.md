@@ -1,7 +1,7 @@
 # Role-Based Access Control (RBAC) System
 
 ## Overview
-This project implements an Authentication and Authorization system using Role-Based Access Control (RBAC). Users can register, log in, and log out securely, with access to resources determined by their assigned roles (e.g., Admin, User, Moderator).
+This project is an Authentication and Authorization System that uses Role-Based Access Control (RBAC) to manage user access based on roles and permissions. It provides a structured way to control who can perform specific actions or access certain resources.
 
 ## Features
 

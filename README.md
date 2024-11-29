@@ -32,6 +32,43 @@ This project implements an Authentication and Authorization system using Role-Ba
 - **Authentication**: JSON Web Tokens (JWT)
 - **Libraries**: bcrypt for password hashing, mongoose for MongoDB interaction
 
+---
+
+
+### Instructions for Use
+1. **Insert the Workflow Section**: Add the above code block to your README under a new section titled "Workflow".
+2. **Adjust as Necessary**: Make any changes to the text or structure to better fit your project specifics.
+
+### Example README Section
+
+```markdown
+## Workflow
+
+```mermaid
+graph TD;
+    A[User Interface] -->|Register/Login| B[Frontend (React, TypeScript)];
+    B -->|API Calls| C[Backend (Node.js, Express)];
+    C -->|Database Operations| D[Database (MongoDB)];
+    C -->|JWT Token| E[Authentication];
+    B -->|Manage Users/Roles| F[User Management];
+    B -->|Dynamic Permissions| G[Role Management];
+    F -->|View/Edit/Delete| D;
+    G -->|Assign/Remove Permissions| D;
+
+    subgraph Frontend
+        B
+        F
+        G
+    end
+
+    subgraph Backend
+        C
+        E
+    end
+
+    subgraph Database
+        D
+    end
 
 
 

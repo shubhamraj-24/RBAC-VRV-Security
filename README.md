@@ -34,14 +34,6 @@ This project implements an Authentication and Authorization system using Role-Ba
 
 ---
 
-
-### Instructions for Use
-1. **Insert the Workflow Section**: Add the above code block to your README under a new section titled "Workflow".
-2. **Adjust as Necessary**: Make any changes to the text or structure to better fit your project specifics.
-
-### Example README Section
-
-```markdown
 ## Workflow
 
 ```mermaid
@@ -69,8 +61,7 @@ graph TD;
     subgraph Database
         D
     end
-
-
+```
 
 ---
 

@@ -24,12 +24,14 @@ This project implements an Authentication and Authorization system using Role-Ba
 
 
 ## Technologies Used
-- **Frontend**: React, TypeScript
+
+### Frontend :-
+- **Library & Language**: React, TypeScript
 - **UI Framework**: Material UI
 - **Routing**: React Router DOM
 
-## Technologies Used
-- **Backend**: Node.js, Express
+### Backend :-
+- **Frameworks & Library**: Node.js, Express
 - **Database**: MongoDB (or your chosen database)
 - **Authentication**: JSON Web Tokens (JWT)
 - **Libraries**: bcrypt for password hashing, mongoose for MongoDB interaction

@@ -2,7 +2,10 @@
 
 ### Clone the repository
 1. Fork this repository.
-2. Clone the repository: `https://github.com/shubhamraj-24/RBAC-VRV-Security.git`
+2. Clone the repository:
+```
+https://github.com/shubhamraj-24/RBAC-VRV-Security.git`
+```
 
 ### Configure the client
 

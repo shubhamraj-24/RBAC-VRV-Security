@@ -1,3 +1,44 @@
+# Role-Based Access Control (RBAC) System
+
+## Overview
+This project implements an Authentication and Authorization system using Role-Based Access Control (RBAC). Users can register, log in, and log out securely, with access to resources determined by their assigned roles (e.g., Admin, User, Moderator).
+
+## Features
+
+
+- **User Management**: View, add, edit, delete, and manage user roles and statuses.
+- **Role Management**: Create and modify roles, and assign permissions to them.
+- **Dynamic Permissions**: Assign or remove specific permissions (Read, Write, Delete etc.) to roles, enabling role-based actions for users.
+
+
+---
+
+
+
+- **User Registration**: Users can create accounts securely.
+- **User Login/Logout**: Secure authentication with session management.
+- **Role Management**: Different roles with specific permissions.
+- **JWT Authentication**: Secure token-based authentication.
+- **RBAC Implementation**: Access control based on user roles.
+
+
+
+## Technologies Used
+- **Frontend**: React, TypeScript
+- **UI Framework**: Material UI
+- **Routing**: React Router DOM
+
+## Technologies Used
+- **Backend**: Node.js, Express
+- **Database**: MongoDB (or your chosen database)
+- **Authentication**: JSON Web Tokens (JWT)
+- **Libraries**: bcrypt for password hashing, mongoose for MongoDB interaction
+
+
+
+
+---
+
 ## Project Set Up Instructions
 ---
 ### Clone the repository

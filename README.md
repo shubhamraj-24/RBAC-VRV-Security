@@ -52,7 +52,7 @@ cd client
 ```
 2. Install required packages:
 ```
-npm install`
+npm install
 ```
 
 ### Configure the server
